@@ -1,4 +1,4 @@
-# Telecom-Churn-Aanalysis-BI
+# Telecom-Churn-Analysis-BI
 This is a Dashboard on Telecom Churn Analysis with Insights created in Power BI.
 
 Business Case:
