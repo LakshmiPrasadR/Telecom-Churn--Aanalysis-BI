@@ -2,14 +2,16 @@
 This is a Dashboard on Telecom Churn Analysis with Insights created in Power BI.
 
 Business Case:
-                                        Telecom Churn Analysis Telecom Churn (loss of customers to competition) is a problem for telecom companies because it is expensive to acquire a new customer and companies want to retain their existing customers. Most telecom companies suffer from voluntary churn.
+
+                   Telecom Churn Analysis Telecom Churn (loss of customers to competition) is a problem for telecom companies because it is expensive to acquire a new customer and companies want to retain their existing customers. Most telecom companies suffer from voluntary churn.
 Customer churn is when a company’s customers stop doing business with that company. Businesses are very keen on measuring churn because keeping an existing customer is far less expensive than acquiring a new customer. New business involves working leads through a sales funnel, using marketing and sales budgets to gain additional customers. Existing customers will often have a higher volume of service consumption and can generate additional customer referrals.
 Customer retention can be achieved with good customer service and products. But the most effective way for a company to prevent attrition of customers is to truly know them. The vast volumes of data collected about customers can be used to build churn prediction models. Knowing who is most likely to defect means that a company can prioritise and focus marketing efforts on that subset of their customer base.
 Preventing customer churn is critically important to the telecommunications sector, as the barriers to entry for switching services are so low.
 
 
 Problem Statement and recommended analysis:
-                      Churn data for a Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status. The below noted Analysis was requested from the Data:
+
+           Churn data for a Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status. The below noted Analysis was requested from the Data:
 
 How many customers joined the company during the last quarter? How many customers joined?
 What is the customer profile for a customer that churned, joined, and stayed? Are they different?
@@ -18,6 +20,7 @@ Is the company losing high value customers? If so, how can they retain them?
 
 
 About the Data:
+
 The data was in a csv file format. After the hands on data it was taken to EXCEL for the basic cleaning and preparation process like removing duplicates, errors and blanks.
 Then it was connected to Power BI for further analysis and designing the Dashboard. Various visualisation tools were used to make the Analysis look simple yet effective for the client to understand.
 
@@ -25,6 +28,7 @@ Tools used:
 MS Excel and PowerBI.
 
 The Inferences and the Insights from the visualizations of the data are:
+
 
 •	The Gender, Martial Status does not play a big role in Churn or stay analysis.
 •	The city San Diego has the highest number of Churned Customers with strength of 185 and loss of 385.4k $, followed by Los Angeles and San Francisco.
@@ -34,6 +38,7 @@ The Inferences and the Insights from the visualizations of the data are:
 •	The Main reason stated for Churning was the better options provided from the Competitor, followed by the Dissatisfaction and Attitude of the Team.
 
 Advisable Measures:
+
 •	Customer retention can be achieved with good customer service and products.
 •	It is best to research more about the competition and introduce plans or offers in order to reduce the Churn rate.
 •	The team must be trained on Professional behaviour with the Customer in order to have a smooth Customer relationship.
