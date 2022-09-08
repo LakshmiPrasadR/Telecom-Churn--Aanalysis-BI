@@ -8,7 +8,7 @@ Telecom Churn Analysis Telecom Churn (loss of customers to competition) is a pro
 
 # Problem Statement and recommended analysis:
 
-Churn data for a Telecommunications company that provides phone and internet services to #7,043 customers in California, and includes details about customer demographics, location, services, and current status. The below noted Analysis was requested from the Data.
+Churn data for a Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status. The below noted Analysis was requested from the Data.
 
 1. How many customers joined the company during the last quarter? How many customers joined?
 2. What is the customer profile for a customer that churned, joined, and stayed? Are they different?
